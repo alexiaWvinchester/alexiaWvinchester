@@ -1,4 +1,4 @@
-# Alexia Wvinchester
+# Alexia Winchester
 
 ## Développeuse Backend | Paris, France
 
@@ -15,16 +15,9 @@ Développeuse backend avec plus de 5 ans d'expérience dans la conception de sys
 
 ---
 
-### Projets
-
-- **chester-archive** : Un dépôt historique pour mes expérimentations et mes premiers projets.
-- **D'autres projets arrivent bientôt.**
-
----
-
 ### Me contacter
 
-- **Email** : alexia@proton.me
+- **Email** : anychester@proton.me
 - **GitHub** : [github.com/alexiaWvinchester](https://github.com/alexiaWvinchester)
 - **LinkedIn** : [linkedin.com/in/alexiawvinchester](https://linkedin.com/in/alexiawvinchester)
 
@@ -56,16 +49,9 @@ Backend developer with over 5 years of experience in designing distributed syste
 
 ---
 
-### Projects
-
-- **chester-archive**: A historical repository for my experiments and early projects.
-- **More projects coming soon.**
-
----
-
 ### Contact
 
-- **Email**: alexia@proton.me
+- **Email**: anychester@proton.me
 - **GitHub**: [github.com/alexiaWvinchester](https://github.com/alexiaWvinchester)
 - **LinkedIn**: [linkedin.com/in/alexiawvinchester](https://linkedin.com/in/alexiawvinchester)
 
